@@ -1,0 +1,60 @@
+*{
+    background-color: #af0909;
+}
+
+#conteudo{
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 5px;
+    margin: 20px;
+    padding: 300px;
+
+}
+
+#kombi{
+    position: absolute;
+    top: 125px;
+    width: 600px;
+    border-radius: 100px;
+    left: 35px;
+}
+
+h1{  
+    background-color: rgba(255, 255, 255, 0.0);
+
+    position: absolute;
+    left: 50px;
+    color: #fff;
+    font-family: 'Times New Roman';
+    top: 10px;
+}
+
+.texto{
+    background-color: rgba(255, 255, 255, 0.0);
+
+    position: absolute;
+    font-size: 20px;
+    top:200px;
+    left: 700px;
+    color:#fff;
+}
+
+.info1{
+    background-color: rgba(255, 255, 255, 0.0);
+
+    word-spacing: 20px;
+    position: absolute;
+    top:320px;
+    left: 800px;
+    color:#fff;
+}
+
+.info{
+    background-color: rgba(255, 255, 255, 0.0);
+
+    word-spacing: 20px;
+    position: absolute;
+    top:340px;
+    left: 800px;
+    color:#fff;
+
+}
